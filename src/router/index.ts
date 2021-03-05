@@ -4,6 +4,7 @@ import Home from '@/views/Home.vue';
 import Money from '@/views/Money.vue';
 import Labels from '@/views/Labels.vue';
 import Statisics from '@/views/Statisics.vue';
+import NotFound from '@/views/NotFound.vue';
 
 Vue.use(VueRouter);
 
@@ -23,6 +24,10 @@ const routes: Array<RouteConfig> = [
   {
     path:'/statistics',
     component: Statisics
+  },
+  {
+    path:'*',
+    component: NotFound
   }
 
 ];
