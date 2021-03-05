@@ -1,31 +1,7 @@
 <template>
   <div class="nav-wrapper">
     <div class="content">
-      <p>Money.vue</p>
-      <p>Money.vue</p>
-      <p>Money.vue</p>
-      <p>Money.vue</p>
-      <p>Money.vue</p>
-      <p>Money.vue</p>
-      <p>Money.vue</p>
-      <p>Money.vue</p>
-      <p>Money.vue</p>
-      <p>Money.vue</p>
-      <p>Money.vue</p>
-      <p>Money.vue</p>
-      <p>Money.vue</p>
-      <p>Money.vue</p>
-      <p>Money.vue</p>
-      <p>Money.vue</p>
-      <p>Money.vue</p>
-      <p>Money.vue</p>
-      <p>Money.vue</p>
-      <p>Money.vue</p>
-      <p>Money.vue</p>
-      <p>Money.vue</p>
-      <p>Money.vue</p>
-      <p>Money.vue</p>
-
+      Money.vue
     </div>
     <Nav/>
   </div>
