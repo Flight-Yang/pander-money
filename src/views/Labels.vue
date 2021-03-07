@@ -1,6 +1,6 @@
 <template>
   <Layout>
-    Labels.vue
+    <p>Labels.vue</p>
   </Layout>
 </template>
 
@@ -12,5 +12,6 @@ export default {
 </script>
 
 <style lang="scss" scoped>
+@import "~@/assets/style/helper.scss";
 
 </style>
